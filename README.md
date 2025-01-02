@@ -12,7 +12,7 @@ Koneksi
 3. Servo dikoneksikan dengan Pin D6.
 
 Rangkaian dapat dilihat pada:
-[https://www.tinkercad.com/things/8SwJ9mOypC2-tubes-iot/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard](https://www.tinkercad.com/things/8SwJ9mOypC2-wall-follower-fuzzy-logic/editel)
+https://www.tinkercad.com/things/8SwJ9mOypC2-wall-follower-fuzzy-logic/editel
 
 Cara Kerja
 1. Dinding berada di sebelah kanan robot.
